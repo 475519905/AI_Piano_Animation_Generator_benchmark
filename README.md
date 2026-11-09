@@ -1,11 +1,11 @@
-# AI Piano Evaluation
+# AI Piano Animation Generator Benchmark
 
 ![Piano motion paths and key contact markers](docs/images/piano-evaluation-banner.svg)
 
 A lightweight toolkit for evaluating piano performance animation.
 Compare motion, check key contact, and review results in one consistent workflow.
 
-[Documentation](docs/PROTOCOL.md) · [Download](https://github.com/475519905/ai-piano-evaluation/releases) · [MIT License](LICENSE)
+[Documentation](docs/PROTOCOL.md) · [Download](https://github.com/475519905/AI_Piano_Animation_Generator_benchmark/releases) · [MIT License](LICENSE)
 
 ## What it covers
 
@@ -21,8 +21,8 @@ Compare motion, check key contact, and review results in one consistent workflow
 Requires Python 3.9+.
 
 ```sh
-git clone https://github.com/475519905/ai-piano-evaluation.git
-cd ai-piano-evaluation
+git clone https://github.com/475519905/AI_Piano_Animation_Generator_benchmark.git
+cd AI_Piano_Animation_Generator_benchmark
 python -m pip install -e .
 python examples/generate_synthetic.py .demo
 ```
