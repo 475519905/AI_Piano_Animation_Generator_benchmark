@@ -1,0 +1,5 @@
+[
+  {"sample_id":"toy-training","piece_group":"invented-training-pattern","performance_id":"invented-training-recording","performer_id":"synthetic-actor-a","split":"train"},
+  {"sample_id":"toy-validation","piece_group":"invented-validation-pattern","performance_id":"invented-validation-recording","performer_id":"synthetic-actor-b","split":"validation"},
+  {"sample_id":"toy-testing","piece_group":"invented-test-pattern","performance_id":"invented-test-recording","performer_id":"synthetic-actor-c","split":"test"}
+]
